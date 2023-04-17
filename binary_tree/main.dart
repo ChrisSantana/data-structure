@@ -1,7 +1,7 @@
-import 'binary_search.dart';
+import 'binary_tree.dart';
 
 void main() {
-  final BinarySearch binarySearch = BinarySearch();
+  final BinaryTree binarySearch = BinaryTree();
   binarySearch.insert(9);
   binarySearch.insert(10);
   binarySearch.insert(7);

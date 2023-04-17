@@ -1,6 +1,6 @@
 import 'no_tree.dart';
 
-class BinarySearch {
+class BinaryTree {
   NoTree? root;
 
   NoTree insert(int value) {
